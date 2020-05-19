@@ -7,4 +7,8 @@ public class HelloWorld {
     public String Hello() {
         return "Hello, World!";
     }
+
+    public String Goodbye() {
+        return "Goodbye, Cruel World!";
+    }
 }
